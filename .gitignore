@@ -1,0 +1,17 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore temporary files from IDEs or editors
+*.swp
+*.sublime-workspace
+.vscode/
+
+# Ignore build artifacts
+/dist/
+/build/
+
+# Ignore sensitive files like .env
+.env
